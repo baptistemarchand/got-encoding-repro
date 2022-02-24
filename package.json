@@ -1,0 +1,11 @@
+{
+  "name": "got-encoding-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:baptistemarchand/got-encoding-repro.git",
+  "author": "Baptiste Marchand <baptiste.marchand@ambler.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^12.0.1"
+  }
+}
